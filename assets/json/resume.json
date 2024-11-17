@@ -34,11 +34,22 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, Pennsylvania",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "area": "City Planning | Public and Private Development Concentration",
+      "studyType": "Master's",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "South China University of Technology",
+      "location": "Philadelphia, Pennsylvania",
+      "url": "https://www.uzh.ch/",
+      "area": "City Planning | Public and Private Development Concentration",
+      "studyType": "Master's",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
