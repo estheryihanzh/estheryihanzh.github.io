@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bikeshare Prediction
-description: with background image
+description: Predicting bikeshare demand in Boston using time series model.
 img: assets/img/bikeshare.gif
 redirect: /assests/html/Bikeshare.html
 importance: 1
