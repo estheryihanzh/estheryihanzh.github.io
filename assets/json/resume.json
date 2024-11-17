@@ -21,7 +21,7 @@
       }
     ]
   },
-  "Professional Experience": [
+  "work": [
     {
       "name": "Econsult Solutions, Inc.",
       "position": "Senior Analyst",
@@ -30,27 +30,6 @@
       "endDate": "Current",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    },
-    {
-      "name": "The Housing Initiatives at Penn",
-      "position": "Research Analyst",
-      "url": "https://www.housinginitiative.org/",
-      "startDate": "2022-06-01",
-      "endDate": "2023-07-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "Education": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
