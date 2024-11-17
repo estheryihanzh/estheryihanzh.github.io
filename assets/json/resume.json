@@ -1,10 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yihan Zhang",
+    "label": "Planner|Urban Economics|Spatial Data Analytics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "yihanzhang_work@outlook.com",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
@@ -22,18 +21,27 @@
       }
     ]
   },
-  "work": [
+  "Professional Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Econsult Solutions, Inc.",
+      "position": "Senior Analyst",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2023-07-01",
+      "endDate": "Current",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "The Housing Initiatives at Penn",
+      "position": "Research Analyst",
+      "url": "https://www.housinginitiative.org/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-07-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "Education": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
