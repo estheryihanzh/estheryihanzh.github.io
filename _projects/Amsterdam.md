@@ -3,7 +3,7 @@ layout: page
 title: Forecast Airbnb Revenue in Amsterdam
 description: An exploratory machine learning model to predict the annual revenue of Airbnb listings in Amsterdam.
 img: assets/img/amsterdam.png
-redirect: assets/html/Amsterdam.html
+redirect: https://estheryihanzh.github.io/assets/html/Amsterdam.html
 importance: 2
 category: research
 giscus_comments: true
