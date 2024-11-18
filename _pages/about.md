@@ -18,8 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm wandering around here.
+Hi, it's Yihan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a city planner by training, data scientist and urban economist by interest (and also training). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I'm working as a senior analyst at [Econsult Solutions, Inc.](https://econsultsolutions.com/)(ESI), a consulting firm focusing on urban economic development. A selection of work products (that I can talk about) is listed in the `project` tab. 
+
+Before my current job, I studied City Planning at the University of Pennsylvania, with a concentration in [Public and Private Development] (https://www.design.upenn.edu/city-regional-planning/graduate/graduate-city-and-regional-planning-programs). I also worked as a Research Assistant at [The Housing Initiative at Penn](https://www.housinginitiative.org/) on the evaluation of the COVID-19 Emergency Rent Assistance Program in California. 
+
+Through my academic and professional experience, I'm always trying to understand the shared interests and conflics between public and private forces in facilitating urban economic development. 
+
+I belive that - 
+1. Economic development opportunities should be shared equally by all;
+2. Housing is a human right;
+3. The balance between efficiency and equitability is hard, but absolutely worth working hard towards.
+
+
