@@ -5,7 +5,7 @@ description: Predicting bikeshare demand in Boston using time series model.
 img: assets/img/bikeshare.gif
 redirect: assets/html/Bikeshare.html
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 

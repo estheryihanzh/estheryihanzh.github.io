@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Forecast Airbnb Revenue in Amsterdam
+description: An exploratory machine learning model to predict the annual revenue of Airbnb listings in Amsterdam.
+img: assets/img/amsterdam.png
+redirect: assets/html/Amsterdam.html
 importance: 2
-category: work
+category: research
 giscus_comments: true
 ---
 
