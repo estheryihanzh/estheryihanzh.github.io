@@ -4,7 +4,7 @@ title: The Economic Impact of Montana Film Production
 description: An Analysis of the Industry and the MEDIA Act
 img: assets/img/film_industry.jpg
 redirect: https://econsultsolutions.com/economic-impact-of-montana-film-production-analysis-of-industry-media-act/
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
