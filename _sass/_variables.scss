@@ -23,7 +23,11 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+
 $provence-blue-color: #638cc7 !default;
+$light_grey_bg: #eeedf3 !default;
+$dark_purple_text: #6f5c92 !default;
+$light_purple_text: #afa0cb !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
