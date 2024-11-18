@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Project
+permalink: /project/
 description: The world is a beautiful place.
 nav: true
 nav_order: 3
