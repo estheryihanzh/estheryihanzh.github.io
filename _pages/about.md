@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Urban Planning | Economic Development | Spatial Analytics
+subtitle: 
+  <a href="">Urban Planning</a> • 
+  <a href="">Economic Development</a> •
+  <a href="">Data Analytics</a> 
 
 profile:
   align: right
