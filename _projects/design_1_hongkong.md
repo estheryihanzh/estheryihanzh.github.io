@@ -3,7 +3,7 @@ layout: page
 title: Form Reformed
 description: 「HONG KONG CENTRAL」The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
 img: assets/img/design_hongkong.png
-redirect: https://estheryihanzh.github.io/assets/pdf/HongKong.pdf
+redirect: https://estheryihanzh.github.io/assets/pdf/form_reformed.pdf
 importance: 1
 category: design
 related_publications: true

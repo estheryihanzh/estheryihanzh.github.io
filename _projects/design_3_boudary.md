@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Form Reformed
-description: 「HONG KONG CENTRAL」The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
-img: assets/img/design_hongkong.png
-redirect: https://estheryihanzh.github.io/assets/pdf/HongKong.pdf
-importance: 1
+title: Boundary Revitalized
+description: 「SHENZHEN」Edges have no directions, but boundaries do.
+img: assets/img/boundary_proj.png
+redirect: https://estheryihanzh.github.io/assets/pdf/boundary_revitalized.pdf
+importance: 3
 category: design
 related_publications: true
 ---
