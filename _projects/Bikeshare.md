@@ -3,7 +3,7 @@ layout: page
 title: Bikeshare Prediction
 description: Predicting bikeshare demand in Boston using time series model.
 img: assets/img/bikeshare.gif
-redirect: https://platanios.org/projects/
+redirect: assets/html/Bikeshare.html
 importance: 1
 category: work
 related_publications: true
