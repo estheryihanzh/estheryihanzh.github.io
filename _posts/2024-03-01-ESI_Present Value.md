@@ -6,6 +6,5 @@ description: Researching!
 redirect: https://econsultsolutions.com/how-can-location-intelligence-help-identify-affordable-housing-development-opportunities/
 tags: housing
 categories: sample-posts
-tabs: true
 ---
 
