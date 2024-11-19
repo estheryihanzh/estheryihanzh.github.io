@@ -66,14 +66,12 @@
   "certificates": [
     {
       "name": "Real Estate Design and Development",
-      "date": "2023-05-01",
       "issuer": "Wharton School",
       "url": "https://www.linkedin.com/in/esther-yihan-zhang/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "AICP Candidate",
-      "date": "2023-06-01",
       "issuer": "American Institute of Certified Planners",
       "url": "https://www.credly.com/badges/6d19c798-ec65-4526-9c7f-750d6b8e144a/linked_in_profile",
       "icon": "fa-solid fa-tag"
@@ -120,7 +118,7 @@
       "icon": "fa fa-language"
     },
     {
-      "language": "Chinese (Manderin)",
+      "language": "Chinese (Mandarin)",
       "fluency": "Native",
       "icon": "fa fa-language"
     },
