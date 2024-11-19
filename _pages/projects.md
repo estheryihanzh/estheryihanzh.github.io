@@ -4,7 +4,7 @@ title: Project
 permalink: /project/
 description: The world is a beautiful place.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, research, design]
 horizontal: false
 ---
