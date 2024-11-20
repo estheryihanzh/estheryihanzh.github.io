@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Yihan!  
+Hi, it's Yihan!  
 
 I'm a city planner by training, and a data scientist and urban economist by passion (and quite a bit of training too).  
 
