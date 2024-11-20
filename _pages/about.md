@@ -19,19 +19,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, it's Yihan.
+Hi, I'm Yihan!  
 
-I'm a city planner by training, data scientist and urban economist by interest (and also training). 
+I'm a city planner by training, and a data scientist and urban economist by passion (and quite a bit of training too).  
 
-Currently, I'm working as a senior analyst at [Econsult Solutions, Inc.](https://econsultsolutions.com/)(ESI), a consulting firm focusing on urban economic development. A selection of work products (that I can talk about) is listed in the `project` tab. 
+Currently, I work as a Senior Analyst at [Econsult Solutions, Inc.](https://econsultsolutions.com/) (ESI), a consulting firm specializing in urban economic development. You can explore some of the projects I've worked on (the ones I can share) in the `Project` tab.  
 
-Before my current job, I studied City Planning at the University of Pennsylvania, with a concentration in [Public and Private Development](https://www.design.upenn.edu/city-regional-planning/graduate/graduate-city-and-regional-planning-programs). I also worked as a Research Assistant at [The Housing Initiative at Penn](https://www.housinginitiative.org/) on the evaluation of the COVID-19 Emergency Rent Assistance Program in California. 
+Before joining ESI, I earned my Master's degree in City Planning from the University of Pennsylvania, concentrating in [Public and Private Development](https://www.design.upenn.edu/city-regional-planning/graduate/graduate-city-and-regional-planning-programs). During my time there, I also served as a Research Assistant at [The Housing Initiative at Penn](https://www.housinginitiative.org/), where I contributed to evaluating the COVID-19 Emergency Rent Assistance Program in California.  
 
-Through my academic and professional experience, I'm always trying to understand the shared interests and conflics between public and private forces in facilitating urban economic development. 
+Through my academic journey and professional endeavors, I’ve been driven by a singular curiosity: understanding the interplay—sometimes cooperative, sometimes contentious—between public and private forces in shaping urban economic development.  
 
-I belive that - 
-1. Economic development opportunities should be shared equally by all;
-2. Housing is a human right;
-3. The balance between efficiency and equitability is hard, but absolutely worth working hard towards.
+I believe:  
+1. Economic development opportunities should be shared equitably by all.  
+2. Housing is a basic human right.  
+3. Balancing efficiency and equity is challenging, but it’s a challenge worth embracing.  
+
 
 
