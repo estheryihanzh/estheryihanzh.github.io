@@ -44,23 +44,32 @@
       "institution": "University of Pennsylvania",
       "location": "Philadelphia, PA",
       "url": "https://www.design.upenn.edu/city-regional-planning",
-      "area": "City Planning | Public and Private Development Concentration",
       "studyType": "Master of City Planning",
       "startDate": "2020-09-01",
       "endDate": "2023-05-01",
       "score": "3.9/4.0",
-      "courses": ["Urban Planning", "Urban Economics and Urban Finance", "Real Estate Design and Development", "Urban Spatial Analytics"]
+      "courses": [
+        "Public and Private Development",
+        "Urban Planning", 
+        "Urban Economics and Urban Finance", 
+        "Real Estate Design and Development", 
+        "Urban Spatial Analytics"
+      ]
     },
     {
       "institution": "South China University of Technology",
       "location": "Guangzhou, China",
-      "url": "https://www.uzh.ch/",
-      "area": "City Planning",
+      "url": "https://www2.scut.edu.cn/architecture_en/p6517c6495/list.htm",
       "studyType": "Bachelor of Engineering, Urban and Rural Planning",
       "startDate": "2015-09-01",
       "endDate": "2020-06-01",
       "score": "3.9/4.0",
-      "courses": ["Comprehensive Planning", "Urban Design", "Urban Physics", "ArcGIS"]
+      "courses": [
+        "Comprehensive Planning", 
+        "Urban Design", 
+        "Urban Physics", 
+        "ArcGIS"
+      ]
     }
   ],
   "certificates": [
