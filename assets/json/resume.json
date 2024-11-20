@@ -88,7 +88,7 @@
   ],
   "skills": [
   {"name": "Financial Modeling",
-    "icon": "fa-solid fa-tag",
+    "icon": "fa-solid fa-check-square",
     "keywords": [
       "Feasibility Analaysis",
       "Pro Forma",
@@ -98,7 +98,7 @@
   },
   {
     "name": "Data and Spatial Analytics",
-    "icon": "fa-solid fa-tag",
+    "icon": "fa-solid fa-check-square",
     "keywords": [
       "R, Python, ArcGIS",
       "Data Visualization",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Public Finance",
-    "icon": "fa-solid fa-tag",
+    "icon": "fa-solid fa-check-square",
     "keywords": [
       "Government Budget Analysis",
       "Fiscal Impact Analysis",
