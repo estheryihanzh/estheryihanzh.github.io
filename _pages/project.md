@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: The world is a beautiful place.
+description: Work, Research, and Design
 nav: true
 nav_order: 2
 display_categories: [work, research, design]
